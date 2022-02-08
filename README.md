@@ -28,14 +28,18 @@ OI是*Olympiad in Informatics*的缩写。既然是奥林匹克，那么我们�
 
 ## 说明
 
-### 关于本仓库
+### 功能
 
-本仓库是主要功能所在的地方。
 
-![image](https://user-images.githubusercontent.com/63178754/152919251-e305c629-b5a1-41e7-88e2-76fbf16128ea.png)
-
+1. 这个仓库
+ 本仓库页面上方（如图）的某些选项卡，是一些主要功能的所在地。
+ ![Tabs of this repo](https://user-images.githubusercontent.com/63178754/152919251-e305c629-b5a1-41e7-88e2-76fbf16128ea.png)
  - [Issues](https://github.com/UnitedOiers/UnitedOIers/issues)选项卡：每个人都可以在这里提出组织的待办事项
  - [Discussions](https://github.com/UnitedOiers/UnitedOIers/discussions)选项卡：每个人都可以在这里发布和参与讨论
+
+2. 聊天室
+  本组织已经创建了一个[gitter.im聊天室](https://gitter.im/UnitedOiers/)。
+  大家只需使用GitHub账号登录，就可以畅所欲言啦。
 
 
 ### 关于成员
