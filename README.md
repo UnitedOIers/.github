@@ -56,7 +56,7 @@ OI是*Olympiad in Informatics*的缩写。既然是奥林匹克，那么我们�
 
 > 由于组织不可以放置展示页面，所以只能将简介以及公告写在这个仓库里。
 
-> 文档正在编写，请持续关注。。。
+> 文档正在编写，请持续关注。。。[UniOIers#1](https://github.com/UnitedOiers/UnitedOIers/issues/1)
 
 [^1]: 这里本来想写`:`或者`extends`之类的，考虑到各位所学语言估计不同，还是写中文罢了。
 [^2]: GitHub开源的代码从来都是属于全人类的。我们要努力构建人类命运共同体。
